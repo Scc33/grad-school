@@ -1,0 +1,37 @@
+﻿Name,Dates,Type,Course,Weight,Completed
+CS 435 Quiz Week 1,"August 28, 2022",📚Quiz,CS 435,0.01,Done
+Week 1 Quiz,"September 1, 2022",📚Quiz,CS 427,0.013999999999999999,Done
+CS 435 Quiz Week 2,"September 4, 2022",📚Quiz,CS 435,0.01,Done
+Week 2 Quiz,"September 5, 2022",📚Quiz,CS 427,0.013999999999999999,Done
+CS 435 Quiz Week 3,"September 11, 2022",📚Quiz,CS 435,0.01,Done
+Week 3 Quiz,"September 12, 2022",📚Quiz,CS 427,0.013999999999999999,Done
+MP1: HTTP Client,"September 18, 2022",💻MP,CS 435,0.15,Done
+Week 4 Quiz,"September 19, 2022",📚Quiz,CS 427,0.013999999999999999,Done
+MP1: Java and Build System,"September 19, 2022",💻MP,CS 427,0.0375,Done
+CS 435 Quiz Week 5,"September 25, 2022",📚Quiz,CS 435,0.01,Done
+Choose the book,"September 26, 2022",📌 Assignment,CS 427,0.05,Done
+Week 5 Quiz,"September 26, 2022",📚Quiz,CS 427,0.013999999999999999,Done
+CS 435 Quiz Week 6,"October 2, 2022",📚Quiz,CS 435,0.01,Done
+Week 6 Quiz,"October 3, 2022",📚Quiz,CS 427,0.013999999999999999,Done
+"Milestone1: Team/Project Setup ","October 3, 2022",📌 Assignment,CS 427,0.03,Done
+Week 7 Quiz,"October 10, 2022",📚Quiz,CS 427,0.013999999999999999,Done
+MP2: Design Patterns,"October 10, 2022",💻MP,CS 427,0.0375,Done
+CS 435 Quiz Week 8,"October 16, 2022",📚Quiz,CS 435,0.01,Done
+Milestone2: Requirement Engineering,"October 17, 2022",📌 Assignment,CS 427,0.06,Done
+MP3: Testing,"October 24, 2022",💻MP,CS 427,0.0375,Done
+CS 435 Quiz Week 10,"October 30, 2022",📚Quiz,CS 435,0.01,Done
+MP2: Unicast Routing,"October 30, 2022",💻MP,CS 435,0.3,Done
+Week 10 Quiz,"October 31, 2022",📚Quiz,CS 427,0.013999999999999999,Done
+Milestone3: Implementation,"October 31, 2022",📌 Assignment,CS 427,0.075,Done
+CS 435 Quiz Week 11,"November 6, 2022",📚Quiz,CS 435,0.01,Done
+MP4: Debugging,"November 7, 2022",💻MP,CS 427,0.0375,Done
+CS 435 Quiz Week 12,"November 13, 2022",📚Quiz,CS 435,0.01,Done
+Milestone4: Implementation,"November 14, 2022",📌 Assignment,CS 427,0.075,Done
+CS 435 Quiz Week 13,"November 20, 2022",📚Quiz,CS 435,0.01,Done
+MP3: Emulated Data Center,"November 20, 2022",💻MP,CS 435,0,Done
+MP5: Code Smells and Static Analysis,"November 21, 2022",💻MP,CS 427,0.0375,Done
+Book report,"December 4, 2022",📌 Assignment,CS 427,0.2,Done
+MP4: Software Defined Networking,"December 4, 2022",💻MP,CS 435,0.15,Done
+Milestone5: Validation/Testing,"December 5, 2022",📌 Assignment,CS 427,0.06,Done
+CS 427 Final Exam,"December 5, 2022",🔍 Exam,CS 427,0.15,Done
+CS 435 Final Exam,"December 10, 2022",🔍 Exam,CS 435,0.3,To-Do
